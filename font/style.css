@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'linerix-ff';
+  src:  url('fonts/linerix-ff.eot?41knx');
+  src:  url('fonts/linerix-ff.eot?41knx#iefix') format('embedded-opentype'),
+    url('fonts/linerix-ff.ttf?41knx') format('truetype'),
+    url('fonts/linerix-ff.woff?41knx') format('woff'),
+    url('fonts/linerix-ff.svg?41knx#linerix-ff') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'linerix-ff' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-21plus:before {
+  content: "\e900";
+}
+.icon-align-bottom:before {
+  content: "\e901";
+}
+.icon-align-center:before {
+  content: "\e902";
+}
+.icon-align-left:before {
+  content: "\e903";
+}
+.icon-align-right:before {
+  content: "\e904";
+}
+.icon-align-top:before {
+  content: "\e905";
+}
+.icon-avatar-zombie:before {
+  content: "\e906";
+}
+.icon-bag-refrigerator:before {
+  content: "\e907";
+}
+.icon-bike:before {
+  content: "\e908";
+}
+.icon-bomb:before {
+  content: "\e909";
+}
+.icon-brilliant:before {
+  content: "\e90a";
+}
+.icon-bubble:before {
+  content: "\e90b";
+}
+.icon-calculator:before {
+  content: "\e90c";
+}
+.icon-cinema:before {
+  content: "\e90d";
+}
+.icon-clapperboard:before {
+  content: "\e90e";
+}
+.icon-cloud-download:before {
+  content: "\e90f";
+}
+.icon-cloud-upload:before {
+  content: "\e910";
+}
+.icon-column:before {
+  content: "\e911";
+}
+.icon-cone:before {
+  content: "\e912";
+}
+.icon-crown:before {
+  content: "\e913";
+}
+.icon-cube:before {
+  content: "\e914";
+}
+.icon-dashboard:before {
+  content: "\e915";
+}
+.icon-drum:before {
+  content: "\e916";
+}
+.icon-extinguisher:before {
+  content: "\e917";
+}
+.icon-frontier:before {
+  content: "\e918";
+}
+.icon-ghost:before {
+  content: "\e919";
+}
+.icon-ice-cream:before {
+  content: "\e91a";
+}
+.icon-joystick:before {
+  content: "\e91b";
+}
+.icon-justify:before {
+  content: "\e91c";
+}
+.icon-matryoshka:before {
+  content: "\e91d";
+}
+.icon-medal:before {
+  content: "\e91e";
+}
+.icon-microphone:before {
+  content: "\e91f";
+}
+.icon-mouse:before {
+  content: "\e920";
+}
+.icon-mute:before {
+  content: "\e921";
+}
+.icon-note:before {
+  content: "\e922";
+}
+.icon-paper-airplane:before {
+  content: "\e923";
+}
+.icon-play:before {
+  content: "\e924";
+}
+.icon-plug:before {
+  content: "\e925";
+}
+.icon-popcorn:before {
+  content: "\e926";
+}
+.icon-pump:before {
+  content: "\e927";
+}
+.icon-rec:before {
+  content: "\e928";
+}
+.icon-shark:before {
+  content: "\e929";
+}
+.icon-shovel:before {
+  content: "\e92a";
+}
+.icon-speedometer:before {
+  content: "\e92b";
+}
+.icon-stop:before {
+  content: "\e92c";
+}
+.icon-thermometer:before {
+  content: "\e92d";
+}
+.icon-traffic-light:before {
+  content: "\e92e";
+}
+.icon-trash:before {
+  content: "\e92f";
+}
+.icon-volume:before {
+  content: "\e930";
+}
+.icon-whirligig:before {
+  content: "\e931";
+}
