@@ -4,7 +4,7 @@ The resource you just downloaded is royalty free for use in both personal and co
 
 # Rights
 You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, such as websites, applications or other materials intended for sale. It is not necessary link to https://desight.pro/work/linerix, however any credit will be much appreciated.
+You may modify the resources according to your requirements and include them into works, such as websites, applications or other materials intended for sale. It is not necessary link to desight.pro, however any credit will be much appreciated.
 
 
 # Prohibitions
